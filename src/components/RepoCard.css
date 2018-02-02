@@ -1,0 +1,31 @@
+.repo-card {
+	margin: 15px;
+}
+.repo-header {
+	cursor: pointer;
+	font-weight: 300;
+	font-size: 18px;
+	display: flex;
+	justify-content: space-between;
+}
+.repo-metrics > img {
+	margin: 0px 5px 0px 10px;
+}
+.repo-dates {
+	display: flex;
+}
+.repo-dates > div {
+	width: 50%;
+	font-weight: 300;
+	font-size: 14px;
+}
+.repo-description {
+	margin-top: 15px;
+	font-weight: 300;
+	font-size: 16px;
+}
+.repo-language {
+	margin: 15px 0px 30px;
+	font-weight: 300;
+	font-size: 16px;
+}
